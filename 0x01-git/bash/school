@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "school"
-cat > bash/school
-"The school is open!"
+echo  "school"
+echo "The school is open!"
